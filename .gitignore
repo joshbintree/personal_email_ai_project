@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Personal email data — never commit these
+*.mbox
+chunks.jsonl
+chunks_embedded.jsonl
